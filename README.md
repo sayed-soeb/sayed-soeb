@@ -1,4 +1,4 @@
-![Header](https://imgur.com/your-custom-banner.png)  <!-- Replace with your own image link -->
+![Header](https://i.imgur.com/UlV2mRh.png)
 
 # Hi there, I'm Sayed Soeb 👋
 
