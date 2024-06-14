@@ -1,6 +1,18 @@
-![Header](https://i.imgur.com/UlV2mRh.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-# Hi there, I'm Sayed Soeb 👋
+<p align="center">
+  Let's Connect and have a Chat! 💬
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sayed-soeb-34175b170"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/sayed-soeb"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+  <a href="https://dev.to/sayedsoeb"><img src="https://img.icons8.com/windows/48/000000/dev.png"/></a>
+  <a href="https://twitter.com/yourtwitterusername"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a> <!-- Replace with your Twitter username -->
+  <a href="https://instagram.com/yourinstagramusername"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <!-- Replace with your Instagram username -->
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=sayed-soeb&color=brightgreen)
 
@@ -66,4 +78,7 @@ Full Stack Web Developer specializing in crafting seamless web experiences. Pass
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sayed-soeb-34175b170/)
+- [Twitter](https://twitter.com/yourtwitterusername)  <!-- Add your Twitter username if available -->
 - [Portfolio](https://sayedsoeb-portfolio.netlify.app/)
+
+![snake gif](https://github.com/sayed-soeb/sayed-soeb/blob/output/github-contribution-grid-snake.svg)
