@@ -81,4 +81,4 @@ Full Stack Web Developer specializing in crafting seamless web experiences. Pass
 - [Twitter](https://twitter.com/yourtwitterusername)  <!-- Add your Twitter username if available -->
 - [Portfolio](https://sayedsoeb-portfolio.netlify.app/)
 
-![snake gif](https://github.com/sayed-soeb/sayed-soeb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sayed-soeb/sayed-soeb/blob/output/github-contribution-grid-snake.svg)
