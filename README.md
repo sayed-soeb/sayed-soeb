@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sayed-soeb-34175b170"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/sayed-soeb"><img src="![image](https://github.com/sayed-soeb/sayed-soeb/assets/126053455/960420f0-513f-48fa-acc3-86f64be8e245)
-"/></a>
-  <a href="https://dev.to/sayedsoeb"><img src="https://img.icons8.com/windows/48/000000/dev.png"/></a>
+  <a href="https://linkedin.com/in/sayed-soeb"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/sayed-soeb"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" style="filter: invert(100%);"/></a>
+  <a href="https://dev.to/sayedsoeb"><img src="https://img.icons8.com/windows/48/000000/dev.png" style="filter: invert(100%);"/></a>
   <a href="https://twitter.com/yourtwitterusername"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a> <!-- Replace with your Twitter username -->
   <a href="https://instagram.com/yourinstagramusername"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <!-- Replace with your Instagram username -->
 </p>
