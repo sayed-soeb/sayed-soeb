@@ -13,7 +13,9 @@
   <a href="https://twitter.com/yourtwitterusername"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a> <!-- Replace with your Twitter username -->
   <a href="https://instagram.com/yourinstagramusername"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <!-- Replace with your Instagram username -->
 </p>
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
+</div>
 ![Profile views](https://komarev.com/ghpvc/?username=sayed-soeb&color=brightgreen)
 
 Full Stack Web Developer specializing in crafting seamless web experiences. Passionate about building responsive and user-centric digital solutions. Let's connect and create something amazing together!
