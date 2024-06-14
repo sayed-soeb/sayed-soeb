@@ -1,6 +1,6 @@
 name: Generate Datas
 on:
-  schedule: # execute every 12 hours
+  schedule: 
     - cron: "0 */12 * * *"
   workflow_dispatch:
 jobs:
@@ -8,19 +8,16 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Generate Snake Animation
       - name: Generate Snake Animation
-        uses: Platane/snk@v2.0.0
+        uses: Platane/snk@v2
         with:
           github_user_name: sayed-soeb
 
-      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.0.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
